@@ -1,5 +1,5 @@
 /*
-    File: Roll_Them_Pigs
+    File: Roll_Them_Pigs.cpp
     Author: Nathan Grimm
     Date: 2026-03-26
     Description: Plays the game of pig by rolling two dice and adding up the scores as long as there is no ones.
