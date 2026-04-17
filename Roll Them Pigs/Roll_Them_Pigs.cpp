@@ -1,10 +1,7 @@
 /*
-    File: Roll'em Pigs!
+    File: Roll_Them_Pigs
     Author: Nathan Grimm
     Date: 2026-03-26
-
-
-
     Description: Plays the game of pig by rolling two dice and adding up the scores as long as there is no ones.
     The game ends when either the player or computer rolls at least 100 points
 */
